@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/benediktclaus/benediktclaus.r-universe.dev
 	branch = HEAD
+[submodule "bodymap"]
+	path = bodymap
+	url = https://github.com/benediktclaus/bodymap
 [submodule "clinicalsignificance"]
 	path = clinicalsignificance
 	url = https://github.com/benediktclaus/clinicalsignificance
